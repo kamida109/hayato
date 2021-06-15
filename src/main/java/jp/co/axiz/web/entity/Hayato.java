@@ -7,6 +7,4 @@ public class Hayato {
 
 	public int money;
 
-	System.out.println("冷やし中華はじめました～");
-
 }

@@ -26,6 +26,7 @@ public class Hayato {
 	public String getKinjo() {
 		return kinjo;
 	}
+
 	public void setKinjo(String kinjo) {
 		this.kinjo = kinjo;
 	}

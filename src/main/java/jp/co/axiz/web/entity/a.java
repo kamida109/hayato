@@ -1,5 +1,5 @@
 package jp.co.axiz.web.entity;
 
-public class A {
+public class a {
 
 }

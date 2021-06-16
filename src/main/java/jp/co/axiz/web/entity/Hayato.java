@@ -5,20 +5,6 @@ public class Hayato {
 	public int hayato;
 	public String kinjo;
 
-	public int sample;
-
-
-
-	public int money;
-
-	public int getMoney() {
-		return money;
-	}
-
-	public void setMoney(int money) {
-		this.money = money;
-	}
-
 	public int getHayato() {
 		return hayato;
 	}

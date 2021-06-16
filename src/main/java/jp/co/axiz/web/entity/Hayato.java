@@ -22,5 +22,4 @@ public class Hayato {
 	public void setHayato(int hayato) {
 		this.hayato = hayato;
 	}
-
 }

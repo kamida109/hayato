@@ -14,5 +14,12 @@ public class Hayato {
 		this.money = money;
 	}
 
+	public String getKinjo() {
+		return kinjo;
+	}
+	public void setKinjo(String kinjo) {
+		this.kinjo = kinjo;
+	}
+
 
 }

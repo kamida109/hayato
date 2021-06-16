@@ -7,6 +7,9 @@ public class Hayato {
 
 	public int money;
 
+
+	public int manymoneymanymoney;
+
 	public int getMoney() {
 		return money;
 	}

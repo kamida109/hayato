@@ -5,6 +5,8 @@ public class Hayato {
 	public int hayato;
 	public String kinjo;
 
+	public int aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+
 	public int money;
 
 	public int getMoney() {

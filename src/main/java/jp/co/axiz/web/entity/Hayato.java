@@ -5,7 +5,7 @@ public class Hayato {
 	public int hayato;
 	public String kinjo;
 
-	public int manymoneymanymoney;
+	public int sample;
 
 	public int money;
 

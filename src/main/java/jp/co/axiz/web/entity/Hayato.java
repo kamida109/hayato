@@ -22,4 +22,13 @@ public class Hayato {
 	public void setHayato(int hayato) {
 		this.hayato = hayato;
 	}
+
+	public String getKinjo() {
+		return kinjo;
+	}
+
+	public void setKinjo(String kinjo) {
+		this.kinjo = kinjo;
+	}
+
 }

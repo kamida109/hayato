@@ -2,6 +2,6 @@ package sample2;
 
 public class Sample2 {
 
-	public boolean hayato;
+	public String hayato;
 
 }

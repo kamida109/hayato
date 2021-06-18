@@ -5,11 +5,8 @@ public class Hayato {
 	public int hayato;
 	public String kinjo;
 
-<<<<<<< HEAD
 	public int kyougou;
-=======
 	public int sample;
->>>>>>> refs/heads/sample
 
 	public int money;
 

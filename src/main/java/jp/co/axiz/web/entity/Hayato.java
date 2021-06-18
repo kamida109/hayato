@@ -6,6 +6,7 @@ public class Hayato {
 	public String kinjo;
 
 	public int kyougou;
+	public int sample;
 
 	public int money;
 
